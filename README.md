@@ -1,4 +1,4 @@
-# Jamila Store (WIP)
+# Jamila Store 
 
 ## Overview
 
